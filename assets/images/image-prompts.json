@@ -1,0 +1,45 @@
+{
+  "generator": "Built-in image_gen",
+  "images": [
+    {
+      "name": "classroom",
+      "prompt": "Use case: photorealistic-natural. Asset type: About section photograph for a children's language school. Create an authentic editorial photograph of a friendly female teacher and four children aged 7?11 around a table playing a colorful picture-card vocabulary game in a bright modern classroom. Natural expressions, joyful engaged conversation, realistic skin and hands, candid rather than staged. Warm daylight, pale wood furniture, subtle purple and lime classroom accents, plants and books softly out of focus. Landscape 4:3 composition, subjects mostly in upper two thirds, lower area available for a dark gradient and statistic overlay on the website. No text, logos, watermark or collages.",
+      "source": "C:\\Users\\hridoy\\.codex\\generated_images\\01a15e14-f18d-72d1-b28e-3c1d3eb08ba0\\exec-de357abf-aa94-4be2-b637-52cdec16f09b.png",
+      "saved_path": "assets/images/classroom.png",
+      "width": 1448,
+      "height": 1086
+    },
+    {
+      "name": "coach-sarah",
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional language coach portrait for children's school website. A friendly woman in her early 30s with shoulder-length chestnut hair, wearing a lavender knit top, smiling naturally at camera in a bright welcoming classroom. Waist-up vertical 4:5 composition, head fully within frame with generous space above, arms relaxed, pale cream background with softly blurred books and plants, natural window light, editorial photography, realistic skin texture, no text, logos, watermark or borders. This is an illustrative fictional person.",
+      "source": "C:\\Users\\hridoy\\.codex\\generated_images\\01a15e14-f18d-72d1-b28e-3c1d3eb08ba0\\exec-b717636e-e72b-4439-a0ec-c8ca4c6ceb30.png",
+      "saved_path": "assets/images/coach-sarah.png",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "name": "coach-giulia",
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional language coach portrait for children's school website. A friendly woman in her early 30s with dark curly shoulder-length hair, wearing a soft sage-green blouse, smiling naturally at camera in a bright welcoming classroom. Waist-up vertical 4:5 composition, head fully within frame with generous space above, arms relaxed, pale cream background with softly blurred books and plants, natural window light, editorial photography, realistic skin texture, no text, logos, watermark or borders. This is an illustrative fictional person.",
+      "source": "C:\\Users\\hridoy\\.codex\\generated_images\\01a15e14-f18d-72d1-b28e-3c1d3eb08ba0\\exec-186dbca5-6a9f-4471-a26d-83af781a8ead.png",
+      "saved_path": "assets/images/coach-giulia.png",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "name": "coach-carlos",
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional language coach portrait for children's school website. A friendly man in his mid 30s with short dark hair and a neat short beard, wearing an ochre casual overshirt over a white tee, smiling naturally at camera in a bright welcoming classroom. Waist-up vertical 4:5 composition, head fully within frame with generous space above, arms relaxed, pale cream background with softly blurred books and plants, natural window light, editorial photography, realistic skin texture, no text, logos, watermark or borders. This is an illustrative fictional person.",
+      "source": "C:\\Users\\hridoy\\.codex\\generated_images\\01a15e14-f18d-72d1-b28e-3c1d3eb08ba0\\exec-1e4261eb-41e0-41c0-a636-234d78d7ad3c.png",
+      "saved_path": "assets/images/coach-carlos.png",
+      "width": 1122,
+      "height": 1402
+    },
+    {
+      "name": "coach-claire",
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional language coach portrait for children's school website. A friendly woman in her early 30s with a short blonde bob, wearing a pale blue linen shirt, smiling naturally at camera in a bright welcoming classroom. Waist-up vertical 4:5 composition, head fully within frame with generous space above, arms relaxed, pale cream background with softly blurred books and plants, natural window light, editorial photography, realistic skin texture, no text, logos, watermark or borders. This is an illustrative fictional person.",
+      "source": "C:\\Users\\hridoy\\.codex\\generated_images\\01a15e14-f18d-72d1-b28e-3c1d3eb08ba0\\exec-0dccc755-bec3-4e70-8e06-05ed68617a39.png",
+      "saved_path": "assets/images/coach-claire.png",
+      "width": 1122,
+      "height": 1402
+    }
+  ]
+}

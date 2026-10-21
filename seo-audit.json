@@ -1,0 +1,39 @@
+{
+  "passed": [
+    "Document language is declared",
+    "One descriptive page title",
+    "Useful meta description",
+    "Exactly one main heading",
+    "Heading levels do not skip",
+    "Unique element IDs",
+    "Internal anchor targets exist",
+    "All main sections have heading labels",
+    "Every image has an alt attribute",
+    "All referenced images exist",
+    "Image dimensions match the actual files",
+    "Responsive sources and sizes for classroom and portraits",
+    "Every responsive image variant exists",
+    "Hero image is prioritized and not lazy-loaded",
+    "Hero preload matches the actual image request",
+    "Below-fold large photos are lazy-loaded",
+    "External scripts are deferred in document order",
+    "Local JavaScript files exist",
+    "Social sharing metadata is present",
+    "Social preview image is 1200 x 630",
+    "Page JSON-LD parses and describes a WebPage",
+    "No fabricated ratings, offers or business identity in schema",
+    "Favicon exists and is valid SVG",
+    "Public crawling is not accidentally blocked",
+    "Homepage is not marked noindex"
+  ],
+  "failed": [],
+  "deployment_pending": [
+    "Public domain: canonical URL and og:url",
+    "Absolute cross-platform social-image URLs",
+    "Production sitemap.xml and Search Console submission",
+    "Replace demo content with verified school information before a real launch",
+    "Verify public HTTP responses, HTTPS, compression and caching",
+    "Measure live Core Web Vitals and run Lighthouse on the deployed URL"
+  ],
+  "note": "This is a local code audit, not a Lighthouse score or a guarantee of indexing or ranking."
+}

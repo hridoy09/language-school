@@ -1,0 +1,8 @@
+{
+  "mode": "Built-in image_gen",
+  "prompt": "Use case: ads-marketing. Asset type: Open Graph social sharing card for Kids? Language School website. Generate a finished premium brand graphic in a very wide 1.905:1 landscape composition intended to be displayed at 1200 x 630. Background saturated purple #5a1fd8 with restrained soft purple gradients. Lime #c6f432 accents, white rounded modern sans-serif typography like Poppins. Left 58% is an impeccably clean typographic composition: small simple white open-book icon at upper left, a large clear three-line title reading exactly ?Kids?? then ?Language? then ?School?. Beneath it, smaller perfectly legible text reading exactly ?Small groups. Big confidence.? Along the bottom left, a lime pill reading exactly ?Ages 5?15? and smaller white line ?English ? Italian ? Spanish ? French?. Right 42% shows a photorealistic, cheerful, fictional schoolgirl aged about 10 wearing purple over-ear headphones around her neck and a backpack, holding a book, standing against a lime circular shape. Contemporary editorial school campaign photography, realistic facial features and hands, bright welcoming lighting. Plenty of safe padding at least 65 pixels on every edge; all text and the girl's face fit well within the central safe region for social crops. No website URL, no additional words, no fake ratings, no watermarks. Crisp professional balanced layout. Render flat final card edge to edge, not a mockup on a surface. Keep all important content away from extreme top and bottom so a tiny aspect-ratio adjustment preserves it.",
+  "source": "assets/images/seo-social-card-source.png",
+  "final": "assets/images/seo-social-card.jpg",
+  "width": 1200,
+  "height": 630
+}
